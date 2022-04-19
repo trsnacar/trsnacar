@@ -6,15 +6,14 @@
 
 ## Go Lang Developer
 
-- 🌱 I’m currently working on back-end development with Go Lang, In love with Linux and Learning Solidity
+- 🌱 **I'm working on Golang language, I have more to learn, I'm at the beginning**
 
 
 
 
 
 
-### Stats:
-https://github-readme-stats.vercel.app/api/top-langs/?trsnacar{trsnacar}&theme=blue-green
+
 
 
 ### Stack:
