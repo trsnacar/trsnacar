@@ -13,7 +13,8 @@
 
 
 
-
+### Stats:
+https://github-readme-stats.vercel.app/api/top-langs/?trsnacar{trsnacar}&theme=blue-green
 
 
 ### Stack:
@@ -21,11 +22,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GoLANG](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Stats:
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
-
-
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trusan-acar/)
 
