@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trsnacar&label=Profile%20views&color=0e75b6&style=flat" alt="trsnacar" /> </p>
 
-## Go Lang Developer
+## Solidity Developer
 
-- 🌱 **I'm working on Golang language, I have more to learn, I'm at the beginning**
+- 🌱 **I'm working on Solidity language, I have more to learn, I'm at the beginning**
 
 
 
