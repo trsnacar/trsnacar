@@ -21,7 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GoLANG](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-[![Solidity](https://img.shields.io/badge/-Solidity-8C54A6.svg?logo=solidity&logoColor=white)](https://solidity.readthedocs.io/)
+![Solidity](https://raw.githubusercontent.com/web3-graphql/solidity-icon/master/solidity.png)
 
 
 
