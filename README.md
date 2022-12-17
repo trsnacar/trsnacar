@@ -15,7 +15,6 @@
 [![Truffle](https://img.shields.io/badge/-Truffle-44C044?style=flat-square)](https://trufflesuite.com)
 [![Infura](https://img.shields.io/badge/-Infura-663399?style=flat-square)](https://infura.io)
 [![Web3](https://img.shields.io/badge/-Web3-E9D458?style=flat-square)](https://web3.readthedocs.io)
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
 
 <br />
