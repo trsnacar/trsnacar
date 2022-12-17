@@ -21,7 +21,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GoLANG](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Solidity logo](https://raw.githubusercontent.com/web3assistant/web3-assistant/main/logos/solidity.png)
+<img src="https://raw.githubusercontent.com/web3assistant/web3-assistant/main/logos/solidity.png" alt="Solidity logo" width="100">
+
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trusan-acar/)
