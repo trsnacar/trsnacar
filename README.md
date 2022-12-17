@@ -24,5 +24,3 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="kryptoniten's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trsnacar&theme=radical&show_icons=true" /> 
-
-[linkedin-url]: https://www.linkedin.com/in/trusan-acar
