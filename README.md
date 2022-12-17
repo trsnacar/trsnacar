@@ -8,14 +8,6 @@
 
 - 🌱 **I'm working on Solidity language, I have more to learn, I'm at the beginning**
 
-
-
-
-
-
-
-
-
 ### Stack:
 [![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat-square)](https://ethereum.org)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square)](https://golang.org)
@@ -29,13 +21,8 @@
 <br />
 <br />
 
-
-
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kryptoniten's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trsnacar&theme=radical&show_icons=true" />
-  
-  
-
+  <img align="left" alt="kryptoniten's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trsnacar&theme=radical&show_icons=true" /> 
 
 [linkedin]: https://www.linkedin.com/in/trusan-acar
