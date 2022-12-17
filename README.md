@@ -17,13 +17,12 @@
 
 
 ### Stack:
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GoLANG](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-[![Solidity](https://img.shields.io/badge/-Solidity-2c9fcc?style=flat-square)](https://solidity.readthedocs.io)
-
-
+[![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat-square)](https://ethereum.org)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square)](https://golang.org)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square)](https://code.visualstudio.com)
+[![Truffle](https://img.shields.io/badge/-Truffle-44C044?style=flat-square)](https://trufflesuite.com)
+[![Infura](https://img.shields.io/badge/-Infura-663399?style=flat-square)](https://infura.io)
+[![Web3](https://img.shields.io/badge/-Web3-E9D458?style=flat-square)](https://web3.readthedocs.io)
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trusan-acar/)
 
