@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F739&width=435&lines=Full+Stack+Developer;Blockchain+Developer;Cloud+Engineer)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-🔭 I'm passionate about blockchain technology and cloud computing  
+🔭 I have a passion for blockchain technology.
 🌱 Currently exploring advanced cloud architectures and Web3  
 💡 Always eager to learn and collaborate on innovative projects
 
