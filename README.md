@@ -58,9 +58,9 @@
 
 ## 🚀 About Me
 
-🔭 Blockchain ve Web3 teknolojilerine tutkuyla bağlıyım.  
-🌱 Şu an gelişmiş bulut mimarileri ve RWA tokenizasyonu üzerinde çalışıyorum.  
-💡 Yenilikçi projelerde öğrenmeye ve iş birliğine her zaman açığım.
+🔭 Passionate about blockchain and Web3 technologies.  
+🌱 Currently exploring advanced cloud architectures and RWA tokenization.  
+💡 Always eager to learn and collaborate on innovative projects.
 
 ###
 
